@@ -1,0 +1,7 @@
+Credentials cache: API:9C9F3BFD-B56E-4E41-AD00-E46BC425DC60
+        Principal: arohani@42.FR
+
+  Issued                Expires               Principal
+Mar  6 18:23:11 2017  Mar 13 18:23:11 2017  krbtgt/42.FR@42.FR
+Mar  6 18:23:14 2017  Mar 13 18:23:11 2017  ldap/ldap-proxy.42.fr@42.FR
+Mar  6 18:23:14 2017  Mar 13 18:23:11 2017  HTTP/student-storage-1.42.fr@42.FR
